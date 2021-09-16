@@ -24,7 +24,7 @@ public class Student {
 
     public void addCourse(Course course) {
         courseRegister = getCourseRegister();
-        courseRegister.add(Student student);
+    //    courseRegister.add(Student student);
     }
 
     public ArrayList<Course> getCourseRegister() {
