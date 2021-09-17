@@ -5,6 +5,9 @@
       <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-11.0.2/lib" />
     </CLASSES>
     <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/MICROSOFT JBDC DRIVER 9.4 for SQL SERVER/enu/auth/x64" />
+    </NATIVE>
     <SOURCES>
       <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-11.0.2/lib" />
       <root url="file://$PROJECT_DIR$/../../../../Program Files (x86)/Java/javafx-sdk-11.0.2/lib/javafx.base" />
