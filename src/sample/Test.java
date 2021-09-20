@@ -25,5 +25,7 @@ public class Test {
             ex.printStackTrace();
         }
 
+        System.out.println("success");
+
     }
 }
